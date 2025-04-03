@@ -1,0 +1,14 @@
+{
+  "name": "@monodemo-simple/modules",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@monodemo-simple/utils": "^0.1.0"
+  }
+}

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lijiakof/monorepo-tutorial#readme",
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "packages-simple/*"
   ]
 }
