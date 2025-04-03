@@ -1,0 +1,22 @@
+{
+  "name": "monorepo-tutorial",
+  "version": "0.1.0",
+  "description": "monorepo starter",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev -workspaces"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijiakof/monorepo-tutorial.git"
+  },
+  "author": "jay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lijiakof/monorepo-tutorial/issues"
+  },
+  "homepage": "https://github.com/lijiakof/monorepo-tutorial#readme",
+  "workspaces": [
+    "packages/*"
+  ]
+}
